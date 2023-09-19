@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Victor Araújo 🖐️
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=victor300br_icons=true&theme=dracula&count_private=true)
+![victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victor300br&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
