@@ -14,4 +14,4 @@
 
 </div><br/>
 
-"Explorador incansável do mundo digital, ávido por desbravar novos horizontes e apaixonado por desvendar as inovações que permeiam a programação."
+Explorador incansável do mundo digital, ávido por desbravar novos horizontes e apaixonado por desvendar as inovações que permeiam a programação.
