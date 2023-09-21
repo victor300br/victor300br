@@ -14,4 +14,4 @@
 
 </div><br/>
 
-"Entusiasta de tecnologia, sempre em busca de novos conhecimentos e apaixonado por explorar o que é inovador na programação."
+"Explorador incansável do mundo digital, ávido por desbravar novos horizontes e apaixonado por desvendar as inovações que permeiam a programação."
